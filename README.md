@@ -1,4 +1,4 @@
-#DECSTR Function (Code, Text)  
+# DECSTR Function (Code, Text)  
 Decreases a positive number or increase a negative number inside a string by one (1).  
 NewString := DecStr(String)  
 
