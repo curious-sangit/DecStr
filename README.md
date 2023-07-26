@@ -6,7 +6,7 @@ NewString := DecStr(String)
 ```
 
 # Parameters
-String  
+_String_  
 Type: Text constant or code  
 The string that you want to increase or decrease.  
 
